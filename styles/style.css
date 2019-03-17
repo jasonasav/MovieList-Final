@@ -1,0 +1,35 @@
+@import url("http://netdna.bootstrapcdn.com/bootstrap/3.0.0-rc2/css/bootstrap-glyphicons.css");
+
+body {
+    background: #f1f1f1;
+    border: 1px;
+  }
+
+#app-container {
+  background: darkgoldenrod;
+  width:800px; /* or whatever width you want. */
+  /* max-width:250px; or whatever width you want. */
+  border: 2px solid black;
+  display: inline-block;
+}
+
+#app {
+  border: 1px;
+}
+.movie {
+  border: 1px solid black;
+  /* border-bottom-right-radius: 24px; */
+  /* border-block-end-width: 24px; */
+  /* border-width: 40px; */
+  
+  font-weight: bold;
+  font-size: 24px;
+  
+}
+.h1 {
+  text-emphasis: bold;
+  color: dodgerblue;
+}
+.h2 {
+  text-align: center;
+}
